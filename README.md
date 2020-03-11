@@ -22,11 +22,11 @@ node server.js
 ``` 
 <br>
 3. Navigate to your web browser and visit http://localhost/home, 
-4. Input all the required information displayed on the frontend upload a ``` .xlsx ```file and upload it 
+4. Input all the required information displayed on the frontend upload a ``` .xlsx ``` file and upload it 
 5. The data should be inserted into the database in which you refferenced on the user Interface (UI), you should validate this step <br> <br>
 
 ## Change Log
-All changes should be recorded in the CHANGELOG.MD whenever changes are made <br> <br>
+All changes should be recorded in the ``` CHANGELOG.MD ```  changes are made <br> <br>
 
 ## Contributing
 Please feel free to contribute to this project by making a pull request on chnages yould like to bring inti the production branch we will get back to you as soon as possible.
