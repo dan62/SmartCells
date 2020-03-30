@@ -25,6 +25,8 @@ node server.js
 4. Input all the required information displayed on the frontend upload a ``` .xlsx ```  file and upload it 
 5. The data should be inserted into the database in which you refferenced on the user Interface (UI), you should validate this step <br> <br>
 
+* Inorder to configure database credentials and database type please update necessary variables in the ```.env```file
+
 ## Change Log
 All changes should be recorded in the ``` CHANGELOG.MD ```  changes are made <br> <br>
 
